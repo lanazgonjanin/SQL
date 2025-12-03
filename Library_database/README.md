@@ -53,6 +53,6 @@ Consider a review *(b, c, w, s)* ∈ **Review**. This review is **positive** if 
 
 ---
 
-### Query 4: **Book-age bias?**
+### Query 4: **Book-age bias**
 
 Returns identifiers of books such that each copy has a higher average score than **all** preceding copies.
